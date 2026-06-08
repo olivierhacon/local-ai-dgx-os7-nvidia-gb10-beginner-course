@@ -1,5 +1,7 @@
 # Local AI on DGX OS 7 — 7-Day Hands-on Course (Lenovo ThinkStation PGX or any similar Nvidia GB10-based device)
 
+[👉 Access the HTML version of the course](https://olivierhacon.github.io/local-ai-dgx-os7-nvidia-gb10-beginner-course/)
+
 _Introduction · **read first**_
 
 ## Project overview
