@@ -4,9 +4,7 @@ _Day **2** of 7 · DGX OS 7 · GB10 Blackwell_
 
 You now learn the vocabulary of containers and meet the blueprint of the whole course: the complete `docker-compose.yml`. Every later day adds or starts one of its services.
 
-<!-- Optional image slot:
-![Day 2: Docker, NVIDIA containers and the local AI stack](assets/images/day-02-docker-stack.png)
--->
+![Day 2: Docker, NVIDIA containers and the local AI stack](assets/images/day-02-docker-nvidia-local-ai-stack-dgx-os7-pgx-gb10-course.png)
 
 ## Overview & objectives
 
