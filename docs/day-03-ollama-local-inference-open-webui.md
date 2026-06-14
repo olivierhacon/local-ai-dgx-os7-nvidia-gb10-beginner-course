@@ -4,9 +4,7 @@ _Day **3** of 7 · DGX OS 7 · GB10 Blackwell_
 
 Time to talk to a model. You start the two always-on services of the stack — `ollama` (the inference engine) and `open-webui` (the chat UI) — pull your first local LLM, and drive it from the CLI, the REST API and the browser.
 
-<!-- Optional image slot:
-![Day 3: Ollama, local LLM inference and Open WebUI](assets/images/day-03-ollama-openwebui.png)
--->
+![Day 3: Ollama, local LLM inference and Open WebUI](assets/images/day-03-open-webui-local-ai-dgx-os7-pgx-gb10-course.png)
 
 ## Overview & objectives
 
