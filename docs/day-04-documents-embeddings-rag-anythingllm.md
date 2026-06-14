@@ -4,9 +4,7 @@ _Day **4** of 7 · DGX OS 7 · GB10 Blackwell_
 
 You make the model answer from *your own documents*. You learn what embeddings and RAG really are, configure Open WebUI's document pipeline correctly, batch-upload a library with a real script, diagnose the vector store, and meet the dedicated `anythingllm` service.
 
-<!-- Optional image slot:
-![Day 4: Documents, embeddings, RAG and AnythingLLM](assets/images/day-04-rag-documents.png)
--->
+![Day 4: Documents, embeddings, RAG and AnythingLLM](assets/images/day-04-anythingllm-local-ai-dgx-os7-pgx-gb10-course.png)
 
 ## Overview & objectives
 
