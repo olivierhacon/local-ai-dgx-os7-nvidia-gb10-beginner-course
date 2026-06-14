@@ -4,9 +4,7 @@ _Day **6** of 7 · DGX OS 7 · GB10 Blackwell_
 
 A complete change of modality. You build a custom `comfyui` image for the GB10, learn the node-graph way of thinking, generate your first images with SDXL and FLUX.1-schnell, and upscale them ×4 with Real-ESRGAN — all from reproducible workflow files.
 
-<!-- Optional image slot:
-![Day 6: Image generation with ComfyUI, FLUX, workflows and upscaling](assets/images/day-06-comfyui-flux.png)
--->
+![Day 6: Image generation with ComfyUI, FLUX, workflows and upscaling](assets/images/day-06-comfyui-local-ai-dgx-os7-pgx-gb10-course.png)
 
 ## Overview & objectives
 
