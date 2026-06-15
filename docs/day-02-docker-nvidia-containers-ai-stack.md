@@ -179,18 +179,18 @@ services:
   vllm:
     image: nvcr.io/nvidia/vllm:25.10-py3
     container_name: vllm
-    restart: no                          # à la demande
+    restart: no
     ports:
       - "8000:8000"
     volumes:
       - ~/llm-stack/vllm-models:/models
-      - ~/llm-stack/hf-cache:/root/.cache/huggingface   # ← cache HF ajouté
+      - ~/llm-stack/hf-cache:/root/.cache/huggingface
     ipc: host
     shm_size: 16gb
     environment:
       - NVIDIA_VISIBLE_DEVICES=all
       - HF_TOKEN=<REDACTED_HF_TOKEN>
-      - HUGGING_FACE_HUB_TOKEN=<REDACTED_HF_TOKEN>            # ← duplicate HF token variable
+      - HUGGING_FACE_HUB_TOKEN=<REDACTED_HF_TOKEN>
       - HF_HUB_DISABLE_XET=1
       - HF_HUB_ENABLE_HF_TRANSFER=0
     deploy:
