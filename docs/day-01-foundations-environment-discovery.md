@@ -4,9 +4,7 @@ _Day **1** of 7 · DGX OS 7 · GB10 Blackwell_
 
 Before deploying anything, you map the terrain: what DGX OS 7 gives you, how to read the GPU, and how to confirm that the Docker → NVIDIA runtime → GB10 chain works end to end.
 
-<!-- Optional image slot:
-![Day 1: Foundations and environment discovery](assets/images/day-01-foundations.png)
--->
+![Day 1: Foundations and environment discovery](assets/images/day-01-dashboard-local-ai-stack-dgx-os7-pgx-gb10-course.png)
 
 ## Overview & objectives
 
