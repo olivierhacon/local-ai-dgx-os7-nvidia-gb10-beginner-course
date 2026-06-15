@@ -4,9 +4,7 @@ _Day **7** of 7 · DGX OS 7 · GB10 Blackwell_
 
 The final day. You generate music and sound with Meta's AudioCraft on the GB10, consolidate every issue from the week into one master troubleshooting reference, and map out where to go next.
 
-<!-- Optional image slot:
-![Day 7: Audio and music generation, troubleshooting and recap](assets/images/day-07-audio-wrapup.png)
--->
+![Day 7: Audio and music generation, troubleshooting and recap](assets/images/day-07-audio-generation-local-ai-stack-dgx-os7-pgx-gb10-course.png)
 
 ## Overview & objectives
 
